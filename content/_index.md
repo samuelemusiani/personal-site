@@ -20,7 +20,7 @@ I use multiple **gpg keys**, but the main one is [here](BC73AD01FC0D41FE67038E93
 ## contacts
 
 - You can find me on [matrix] at @samu:teapot.ovh
-- You can send me **play text** emails: 
+- You can send me **plain text** emails: 
      1. Self hosted: samu _at_ teapot.ovh
      2. University: samuele.musiani _at_ studio.unibo.it
 
