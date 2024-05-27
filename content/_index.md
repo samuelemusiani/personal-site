@@ -5,7 +5,14 @@ template = "section.html"
 
 # home
 
-This is my personal website.
+I'm in my second year of studies towards a bachelor's in Computer Sciences at
+University of Bologna.
+
+Proud member of [AdmStaff](https://students.cs.unibo.it) and [CSUnibo](https://csunibo.students.cs.unibo.it).
+
+I find _computer networks_ and _operating systems_ fascinating.
+
+One of the sysadmins behind teapot.ovh
 
 ## keys
 
