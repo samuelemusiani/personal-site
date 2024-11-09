@@ -5,10 +5,10 @@ template = "section.html"
 
 # home
 
-I'm in my second year of studies towards a bachelor's in Computer Sciences at
+I'm in my third year of studies towards a bachelor's in Computer Sciences at
 University of Bologna.
 
-Proud member of [AdmStaff](https://students.cs.unibo.it) and [CSUnibo](https://csunibo.students.cs.unibo.it).
+Proud member of [AdmStaff](https://students.cs.unibo.it) and [CartaBinaria](https://cartabinaria.students.cs.unibo.it).
 
 I find _computer networks_ and _operating systems_ fascinating.
 
