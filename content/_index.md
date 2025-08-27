@@ -5,8 +5,12 @@ template = "section.html"
 
 # home
 
-I'm in my third year of studies towards a bachelor's in Computer Sciences at
-University of Bologna.
+I'm in my fist year of studies towards a master's in Computer Sciences at
+Technical University of Munich.
+
+I've obtained my bachelor's in Computer Sciences at University of Bologna in 2025
+with 110/110 cum laude. My thesis can be found [here(pdf)](https://teapot.ovh/~samu/thesis.pdf)
+or [here(typst)](https://github.com/samuelemusiani/bachelor-thesis).
 
 Proud member of [AdmStaff](https://students.cs.unibo.it) and [CartaBinaria](https://cartabinaria.students.cs.unibo.it).
 
