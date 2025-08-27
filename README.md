@@ -1,1 +1,1 @@
-This site use [zola](https://getzola.org) as a static generator.
+This site uses [zola](https://getzola.org) as a static generator.
